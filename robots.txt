@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-vvb3eo.idncuan.xyz/sitemap.xml
